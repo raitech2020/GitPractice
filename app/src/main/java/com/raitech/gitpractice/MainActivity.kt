@@ -9,5 +9,6 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
         Log.d("MyApp", "first revision")
+        Log.d("MyApp", "second revision")
     }
 }
