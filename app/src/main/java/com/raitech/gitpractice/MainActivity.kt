@@ -10,5 +10,6 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
         Log.d("MyApp", "first revision")
         Log.d("MyApp", "second revision")
+        Log.d("MyApp", "third revision")
     }
 }
