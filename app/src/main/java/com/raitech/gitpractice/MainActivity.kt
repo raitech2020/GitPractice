@@ -11,5 +11,6 @@ class MainActivity : AppCompatActivity() {
         Log.d("MyApp", "first revision")
         Log.d("MyApp", "second revision")
         Log.d("MyApp", "third revision")
+        Log.d("MyApp", "Development branch first revision")
     }
 }
